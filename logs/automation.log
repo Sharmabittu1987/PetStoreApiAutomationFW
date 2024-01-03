@@ -1,0 +1,28 @@
+03:37:00.424 [main] INFO  api.Test.UserTests - ************** Creating User **************
+03:37:04.583 [main] INFO  api.Test.UserTests - ************** User is Created**************
+03:37:04.603 [main] INFO  api.Test.UserTests - ************** Reading User Info **************
+03:37:06.160 [main] INFO  api.Test.UserTests - ************** User Info Is Displayed **************
+03:37:06.167 [main] INFO  api.Test.UserTests - ************** Updating User Info **************
+03:37:07.694 [main] INFO  api.Test.UserTests - ************** User Info Updated **************
+03:37:09.233 [main] INFO  api.Test.UserTests - ************** Deleting User **************
+03:37:10.558 [main] INFO  api.Test.UserTests - ************** User Info Deleted **************
+20:27:35.517 [main] INFO  api.Test.UserTestsUsingPropertyFile - ************** Creating User **************
+20:27:35.541 [main] INFO  api.Test.UserTestsUsingPropertyFile - ************** Reading User Info **************
+20:27:35.545 [main] INFO  api.Test.UserTestsUsingPropertyFile - ************** Updating User Info **************
+20:27:35.551 [main] INFO  api.Test.UserTestsUsingPropertyFile - ************** Deleting User **************
+20:34:19.131 [main] INFO  api.Test.UserTestsUsingPropertyFile - ************** Creating User **************
+20:34:22.117 [main] INFO  api.Test.UserTestsUsingPropertyFile - ************** User is Created**************
+20:34:22.128 [main] INFO  api.Test.UserTestsUsingPropertyFile - ************** Reading User Info **************
+20:34:23.299 [main] INFO  api.Test.UserTestsUsingPropertyFile - ************** User Info Is Displayed **************
+20:34:23.303 [main] INFO  api.Test.UserTestsUsingPropertyFile - ************** Updating User Info **************
+20:34:24.449 [main] INFO  api.Test.UserTestsUsingPropertyFile - ************** User Info Updated **************
+20:34:25.560 [main] INFO  api.Test.UserTestsUsingPropertyFile - ************** Deleting User **************
+20:34:26.656 [main] INFO  api.Test.UserTestsUsingPropertyFile - ************** User Info Deleted **************
+21:26:06.512 [main] INFO  api.Test.UserTests - ************** Creating User **************
+21:26:08.103 [main] INFO  api.Test.UserTests - ************** User is Created**************
+21:26:08.106 [main] INFO  api.Test.UserTests - ************** Reading User Info **************
+21:26:09.423 [main] INFO  api.Test.UserTests - ************** User Info Is Displayed **************
+21:26:09.425 [main] INFO  api.Test.UserTests - ************** Updating User Info **************
+21:26:10.867 [main] INFO  api.Test.UserTests - ************** User Info Updated **************
+21:26:12.241 [main] INFO  api.Test.UserTests - ************** Deleting User **************
+21:26:13.630 [main] INFO  api.Test.UserTests - ************** User Info Deleted **************

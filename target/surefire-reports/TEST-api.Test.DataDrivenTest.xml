@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="6" failures="0" name="api.Test.DataDrivenTest" time="8.741" errors="0" skipped="0">
+  <properties>
+    <property name="jansi.mode" value="force"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="19.0.2+7-44"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-19\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Bittu Sharma\WECO34\corejavaprograms\PetStoreApiAutomationFW"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Bittu Sharma\WECO34\corejavaprograms\PetStoreApiAutomationFW"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="19.0.2+7-44"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\kkuma\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="classworlds.conf" value="C:\Bittu Sharma\WECO34\corejavaprograms\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf15287960972817249843.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-19\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk-17/bin/server;C:/Program Files/Java/jdk-17/bin;C:\Program Files\Java\jdk-17\bin;C:\Python311\Scripts\;C:\Python311\;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\oracle\product\10.2.0\db_1\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\kkuma\AppData\Local\Android\Sdk;C:\Users\kkuma\AppData\Local\Android\Sdk\platform-tools;C:\Users\kkuma\AppData\Local\Android\Sdk\tools;C:\Users\kkuma\AppData\Local\Android\Sdk\tools\lib\x86_64;C:\Program Files\Java\jdk-19\bin;C:\Program Files\Java\jdk-19\lib;C:\Users\kkuma\AppData\Local\Android\Sdk\tools;C:\Users\kkuma\AppData\Local\Android\Sdk\platform-tools;C:\Users\kkuma\AppData\Local\Android\Sdk\build-tools;C:\Users\kkuma\AppData\Local\Android\Sdk\build-tools\bin;C:\Users\kkuma\AppData\Local\Android\Sdk\tools\bin;C:\Program Files\Java\jdk-19;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Bittu Sharma\QSpider\Advance Selenium by Chaitra\Softwares\Maven-3.9.3 - ExtractedFiles\apache-maven-3.9.3\bin;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\kkuma\AppData\Local\Microsoft\WindowsApps;C:\Users\kkuma\AppData\Roaming\npm;C:\Users\kkuma\AppData\Local\Programs\mongosh\;C:\Users\kkuma\Desktop;;."/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="63.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\kkuma"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="19"/>
+    <property name="user.name" value="kkuma"/>
+    <property name="java.class.path" value="C:\Users\kkuma\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="19"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B -Dstyle.color=always test"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-19"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="19.0.2"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Bittu Sharma\WECO34\corejavaprograms\PetStoreApiAutomationFW\EMBEDDED"/>
+    <property name="style.color" value="always"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2023-01-17"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="m2e.build.project.data.socket.port" value="57623"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="api.Test.DataDrivenTest" name="postUserTest" time="3.095"/>
+  <testcase classname="api.Test.DataDrivenTest" name="postUserTest" time="1.158"/>
+  <testcase classname="api.Test.DataDrivenTest" name="postUserTest" time="1.094"/>
+  <testcase classname="api.Test.DataDrivenTest" name="deleteUserByNameTest" time="1.179"/>
+  <testcase classname="api.Test.DataDrivenTest" name="deleteUserByNameTest" time="1.105"/>
+  <testcase classname="api.Test.DataDrivenTest" name="deleteUserByNameTest" time="1.11"/>
+</testsuite>
